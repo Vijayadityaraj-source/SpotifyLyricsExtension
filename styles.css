@@ -1,0 +1,20 @@
+body{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(13, 17, 23);
+    display: flex;
+    justify-content: center;
+}
+
+#lyrics{
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: #7C7C7C;
+    padding: 20px;
+}
+
+a:link{
+    color: #7C7C7C;
+    text-decoration: none;
+}
